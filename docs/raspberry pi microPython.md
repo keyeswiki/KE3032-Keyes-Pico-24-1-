@@ -1837,7 +1837,7 @@ DateTimeTuple\[6\]存放秒
 
 运行测试代码，我们在shell按照提示输入对应的时间信息，可看到设置时间日期每秒刷新（年、月、日、时、分、秒、周）。
 
-![](media/a8efadd3c45a7b8dde0fea40dbca35c7.jpeg)
+![da43ae2cdef8bd7665d2105cbae0bac8](./media/da43ae2cdef8bd7665d2105cbae0bac8.png)
 
 ![](media/17c4d6c67d891d10b67efc5a56a36194.png)
 

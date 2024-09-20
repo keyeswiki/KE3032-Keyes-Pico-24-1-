@@ -2517,7 +2517,7 @@ Rtc.GetDateTime().DayOfWeek()返回星期
 
 烧录好测试代码，按照接线图连接好线；利用USB接口上电后，进入串口监视器，设置波特率为9600。我们可在软件串口监视器中看到设置时间日期（年、月、日、时、分、秒、周），如下图。
 
-![](media/a8efadd3c45a7b8dde0fea40dbca35c7.jpeg)
+![1215615132165](./media/1215615132165.jpeg)
 
 ![](media/ab509ffccc70d90faf299a9d51f03e36.png)
 
