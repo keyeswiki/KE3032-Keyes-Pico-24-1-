@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3032 Keyes 树莓派Pico 24合1传感器学习套件（含主板）
+   :caption: KE3032 Keyes 树莓派Pico 24合1传感器学习套件含主板
 
    README.md
    docs/index.md
