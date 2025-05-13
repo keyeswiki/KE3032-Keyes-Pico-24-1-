@@ -15,7 +15,7 @@ Windows用户：
 
 （1）先安装putty
 
-下载链接：[<u>https://www.chiark.greenend.org.uk/~sgtatham/putty/</u>](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+下载链接：[https://www.chiark.greenend.org.uk/~sgtatham/putty/](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 ![](media/c26be4cd1f5543f20f275556ce5892c0.png)
 
@@ -39,7 +39,7 @@ Windows用户：
 
 （2）SSH远程登录软件 WinSCP
 
-下载链接：[<u>https://winscp.net/eng/download.php</u>](https://winscp.net/eng/download.php)
+下载链接：[https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
 
 a.下载好WinSCP软件文件![](media/1719daa1002d7477ad4700e1df85d2df.png)后，鼠标左键双击WinSCP软件文件![](media/1719daa1002d7477ad4700e1df85d2df.png)，再左键点击![](media/e09e48a32781d08aabb06156efe1de49.png)。
 
@@ -63,7 +63,7 @@ c\. 几秒钟之后，安装就完成了，点击“Finish”就可以了。
 
 下载链接：
 
-[<u>http://www.canadiancontent.net/tech/download/SD_Card_Formatter.html</u>](http://www.canadiancontent.net/tech/download/SD_Card_Formatter.html)
+[http://www.canadiancontent.net/tech/download/SD_Card_Formatter.html](http://www.canadiancontent.net/tech/download/SD_Card_Formatter.html)
 
 ![](media/fa229f4e063572ce1c59574c308bf452.png)
 
@@ -91,7 +91,7 @@ d\. 几秒钟之后，安装就完成了，点击“Finish”就可以了。
 
 （4）烧录镜像系统软件工具 Win32DiskImager
 
-下载链接：[<u>https://sourceforge.net/projects/win32diskimager/</u>](https://sourceforge.net/projects/win32diskimager/)
+下载链接：[https://sourceforge.net/projects/win32diskimager/](https://sourceforge.net/projects/win32diskimager/)
 
 ![](media/4ffb55fd466198ca9524afbde7806271.png)
 
@@ -127,7 +127,7 @@ d\. 几秒钟之后，安装就完成了，点击“Finish”就可以了。
 
 树莓派的镜像系统
 
-最新版本系统下载链接：[<u>https://www.raspberrypi.org/downloads/raspberry-pi-os/</u>](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
+最新版本系统下载链接：[https://www.raspberrypi.org/downloads/raspberry-pi-os/](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
 
 旧版本系统下载链接：
 
