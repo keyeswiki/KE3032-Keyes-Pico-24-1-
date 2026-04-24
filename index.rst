@@ -7,9 +7,6 @@
    docs/Windows/Arduino/Arduino.rst
    docs/Windows/MicroPython/WinMicroPython.rst
    docs/FAQ.md
-   
-
-
 
 
 
